@@ -1,3 +1,3 @@
 # begginer-python
-Beginner Python Coding
-Concepts that build on eachother more fluidly
+- Beginner Python Coding
+- Presenting basic concepts fluidly
